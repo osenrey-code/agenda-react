@@ -19,13 +19,13 @@ Aplicación web de una agenda de contactos desarrollada con React como parte de 
 ## Requisitos
 
 - Node.js 20 o superior.
-- pnpm 9 o superior.
+- npm 9 o superior.
 
 ## Ejecutar el proyecto
 
 ```bash
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 Luego abre la dirección que muestra Vite, normalmente `http://localhost:5173`.
@@ -33,7 +33,7 @@ Luego abre la dirección que muestra Vite, normalmente `http://localhost:5173`.
 ## Compilación de producción
 
 ```bash
-pnpm build
+npm run build
 ```
 
 La versión compilada se genera en la carpeta `dist`.
