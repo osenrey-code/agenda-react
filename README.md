@@ -28,7 +28,7 @@ npm install
 npm run dev
 ```
 
-Luego abre la dirección que muestra Vite, normalmente `http://localhost:5173`.
+Luego abre la dirección que muestra Vite: `http://127.0.0.1:5173`.
 
 ## Compilación de producción
 
