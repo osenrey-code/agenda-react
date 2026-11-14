@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react';
+import React, { useMemo, useState } from 'react';
 
 const initialContacts = [
   { id: 1, name: 'Ana Martínez', phone: '809-555-0142', email: 'ana@email.com' },
